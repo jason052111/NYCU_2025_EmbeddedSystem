@@ -1,8 +1,5 @@
 # LAB1 Report
 
-**Group:** 9  
-**Student ID:** 314551147  
-
 ---
 
 ## 1. Commands Entered (Step-by-step)
